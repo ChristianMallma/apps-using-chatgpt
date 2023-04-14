@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Gafas de sol Radium",
+      "descripcion": "Lentes polarizadas y montura de titanio. Ideal para deportes.",
+      "precio": 99.99
+    },
+    {
+      "id": 2,
+      "nombre": "Mochila Ventura",
+      "descripcion": "Resistente, cómoda y con sistema de hidratación.",
+      "precio": 79.99
+    },
+    {
+      "id": 3,
+      "nombre": "Reloj Solaris",
+      "descripcion": "Elegante y resistente al agua. Cronómetro, alarma y fecha dual.",
+      "precio": 149.99
+    },
+    {
+      "id": 4,
+      "nombre": "Altavoz inalámbrico Zenith",
+      "descripcion": "Sonido de alta calidad y conexión Bluetooth. Portátil y resistente.",
+      "precio": 129.99
+    },
+    {
+      "id": 5,
+      "nombre": "Cámara de acción Fury",
+      "descripcion": "Resistente al agua con lente gran angular. Calidad de imagen HD.",
+      "precio": 199.99
+    },
+    {
+      "id": 6,
+      "nombre": "Teclado gaming Helios",
+      "descripcion": "Iluminación RGB, teclas mecánicas y reposamuñecas desmontable.",
+      "precio": 89.99
+    },
+    {
+      "id": 7,
+      "nombre": "Bolígrafo inteligente Nexus",
+      "descripcion": "Digitalización y sincronización con dispositivos móviles. Ideal para tomar notas.",
+      "precio": 59.99
+    },
+    {
+      "id": 8,
+      "nombre": "Smartwatch Pulse",
+      "descripcion": "Monitor de ritmo cardíaco, medidor de actividad y notificaciones inteligentes.",
+      "precio": 249.99
+    },
+    {
+      "id": 9,
+      "nombre": "Lámpara de escritorio Pixel",
+      "descripcion": "Diseño moderno y ajuste de intensidad lumínica. Ideal para estudiar.",
+      "precio": 39.99
+    },
+    {
+      "id": 10,
+      "nombre": "Cafetera Expresso Titan",
+      "descripcion": "Sistema de vapor y capacidad para preparar hasta dos tazas.",
+      "precio": 179.99
+    }
+  ]
+}
